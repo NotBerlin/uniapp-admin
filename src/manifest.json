@@ -1,6 +1,6 @@
 {
-    "name" : "hello uni-app",
-    "appid" : "",
+    "name" : "Fortunatly",
+    "appid" : "__UNI__1A700B2",
     "description" : "应用描述",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -9,7 +9,7 @@
     "app-plus" : {
         "usingComponents" : true,
         "nvueCompiler" : "uni-app",
-		"nvueStyleCompiler" : "uni-app",
+        "nvueStyleCompiler" : "uni-app",
         "compilerVersion" : 3,
         "nvueLaunchMode" : "fast",
         "splashscreen" : {
@@ -100,9 +100,10 @@
     },
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "",
+        "appid" : "wx48daf765a3fa358a",
         "setting" : {
-            "urlCheck" : false
+            "urlCheck" : false,
+            "postcss" : false
         },
         "usingComponents" : true,
         "permission" : {

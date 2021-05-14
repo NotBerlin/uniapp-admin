@@ -265,6 +265,11 @@
 			"style": {
 				"navigationBarTitleText": "web-view"
 			}
+		},{
+			"path": "pages/component/english/english",
+			"style": {
+				"navigationBarTitleText": "english"
+			}
 		},
 		// #ifndef H5 || MP-BAIDU || QUICKAPP-WEBVIEW
 		{

@@ -133,6 +133,12 @@
 						open: false
 					},
 					// #endif
+					{
+						id: 'english',
+						url: 'english',
+						name: '英语词根词缀',
+						pages: ['english']
+					},
 				]
 			}
 		},
